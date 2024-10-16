@@ -1,26 +1,27 @@
-<img src="https://www.planner.com.br/wp-content/uploads/2021/09/Capa-Tudo-o-que-voce-precisa-saber-sobre-taxa-de-cambio.jpg" alt="Converso de Moedas - By Claudemir Sewald">
-Conversor de Moedas
-Descrição
+<img src="https://sicredipioneira.com.br/images/blog/post/esta-com-viagem-internacional-marcada-veja-como-e-facil-adquirir-o-papelmoeda-na-sua-agencia-sicredi-pioneira.png" alt="Converso de Moedas - By Claudemir Sewald">
+# **Conversor de Moedas**
+## Descrição
 Este projeto é uma aplicação de conversão de moedas que permite ao usuário calcular a taxa de câmbio entre diferentes moedas em tempo real, utilizando dados fornecidos pela API ExchangeRate-API. A aplicação permite a conversão entre diversas moedas como Real, Dólar, Euro, Libra Esterlina e Iene Japonês.
 
 O usuário pode selecionar a conversão desejada no menu interativo e receber a taxa de câmbio atual, além do valor convertido com base na entrada fornecida.
 
-Funcionalidades
+## Funcionalidades
 Conversão de moedas entre várias opções disponíveis.
 Busca de taxas de câmbio em tempo real através de uma API.
 Interface interativa no console para facilitar a navegação.
 Exibe o valor convertido com base no valor e na taxa de câmbio selecionada.
-Pré-requisitos
+
+## Pré-requisitos
 Antes de executar a aplicação, certifique-se de que seu ambiente possui as seguintes ferramentas instaladas:
 
-Java 8 ou superior
+**Java 8 ou superior**
 Biblioteca Gson (necessária para o parsing do JSON)
 Conexão com a internet para fazer requisições à API
 Instalação
 Clonar o repositório:
 
 bash
-Copiar código
+**Copiar código**
 git clone [https://github.com/ClaudemirSewald/conversor-de-moedas.git](https://github.com/my-Hubgit/conversor-de-moedas.git)
 Instalar as dependências:
 
@@ -71,7 +72,7 @@ Menu.java: Exibe o menu de opções, captura a escolha do usuário, processa a c
 Exemplo de Execução
 Aqui está um exemplo de como a aplicação funciona no terminal:
 
-plaintext
+
 Copiar código
 ========= MENU =========
 1. Real para Dólar
@@ -85,7 +86,7 @@ Copiar código
 9. Dólar para Iene Japonês
 10. Sair
 
-Escolha uma opção: 1
+**Escolha uma opção:** ## 1 
 Real para Dólar.
 Digite o valor a ser convertido: 100
 A taxa de câmbio entre BRL e USD é $0.19
