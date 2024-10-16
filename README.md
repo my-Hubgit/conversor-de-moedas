@@ -20,7 +20,7 @@ Clonar o repositório:
 
 bash
 Copiar código
-git clone [https://github.com/SeuUsuario/conversor-de-moedas.git](https://github.com/my-Hubgit/conversor-de-moedas.git)
+git clone [https://github.com/ClaudemirSewald/conversor-de-moedas.git](https://github.com/my-Hubgit/conversor-de-moedas.git)
 Instalar as dependências:
 
 Você precisa baixar e adicionar a biblioteca Gson ao seu projeto. Caso esteja usando uma IDE como IntelliJ ou Eclipse, siga os passos para adicionar a dependência:
