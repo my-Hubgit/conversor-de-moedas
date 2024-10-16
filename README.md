@@ -1,5 +1,5 @@
 <img src="https://sicredipioneira.com.br/images/blog/post/esta-com-viagem-internacional-marcada-veja-como-e-facil-adquirir-o-papelmoeda-na-sua-agencia-sicredi-pioneira.png" alt="Converso de Moedas - By Claudemir Sewald">
-# **Conversor de Moedas**
+# Conversor de Moedas
 ## Descrição
 Este projeto é uma aplicação de conversão de moedas que permite ao usuário calcular a taxa de câmbio entre diferentes moedas em tempo real, utilizando dados fornecidos pela API ExchangeRate-API. A aplicação permite a conversão entre diversas moedas como Real, Dólar, Euro, Libra Esterlina e Iene Japonês.
 
