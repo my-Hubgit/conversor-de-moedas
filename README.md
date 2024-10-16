@@ -46,7 +46,7 @@ No diretório raiz do projeto, compile e execute o código:
 
 bash
 Copiar código
-javac Main.java
+### Main.java
 java Main
 Uso da Aplicação
 Ao iniciar a aplicação, o menu interativo será exibido no console.
@@ -67,11 +67,15 @@ Após a conversão, um submenu será exibido perguntando se deseja realizar uma 
 Estrutura do Projeto
 Abaixo está uma descrição da estrutura de arquivos:
 
-Main.java: O ponto de entrada da aplicação. Inicia o menu e conecta com a classe buscaApi.
-buscaApi.java: Realiza a requisição HTTP para a API de câmbio e retorna as taxas de câmbio em tempo real.
-Dados.java: Representa a estrutura dos dados recebidos da API, utilizando o Gson para mapear os dados JSON.
-Menu.java: Exibe o menu de opções, captura a escolha do usuário, processa a conversão e faz chamadas à API.
-Exemplo de Execução
+### Main.java:
+ O ponto de entrada da aplicação. Inicia o menu e conecta com a classe buscaApi.
+### buscaApi.java: 
+ Realiza a requisição HTTP para a API de câmbio e retorna as taxas de câmbio em tempo real.
+### Dados.java: 
+ Representa a estrutura dos dados recebidos da API, utilizando o Gson para mapear os dados JSON.
+### Menu.java:
+ Exibe o menu de opções, captura a escolha do usuário, processa a conversão e faz chamadas à API.
+**Exemplo de Execução**
 Aqui está um exemplo de como a aplicação funciona no terminal:
 
 
@@ -88,11 +92,11 @@ Copiar código
 9. Dólar para Iene Japonês
 10. Sair
 
-**Escolha uma opção:** ## 1 
-Real para Dólar.
+**Escolha uma opção:**  1 
+'''Real para Dólar.
 Digite o valor a ser convertido: 100
 A taxa de câmbio entre BRL e USD é $0.19
-O valor convertido para USD é: $19.00
+O valor convertido para USD é: $19.00'''
 Melhorias Futuras
 Algumas ideias para melhorar o projeto incluem:
 
